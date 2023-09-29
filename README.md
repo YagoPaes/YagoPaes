@@ -1,4 +1,8 @@
 ### Welcome to my Profile  🧙‍♂️
+<p>Hi 👋, I'm Yago, i'm 29 years old</p>
+<p>Currently learning HTML5, CSS3, JavaScript, NodeJS and React</p>
+<p>Focus in Web Developer Front-end</p>
+
  <div>
    <a href="https://github.com/yagopaes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoPaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
