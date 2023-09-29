@@ -3,6 +3,10 @@
 <p>Currently learning HTML5, CSS3, JavaScript, NodeJS and React</p>
 <p>Focus in Web Developer Front-end</p>
 
+<div>
+  [![luffy](https://giffiles.alphacoders.com/219/219673.gif)]
+</div>
+<img src="https://giffiles.alphacoders.com/219/219673.gif" alt="Luffy">
  <div>
    <a href="https://github.com/yagopaes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoPaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
