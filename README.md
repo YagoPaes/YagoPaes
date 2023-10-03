@@ -1,6 +1,6 @@
 <div align="justify">
 <h1> Welcome 🧙‍♂️ </h1> 
-<h2>Hi 👋, I'm Yago, i'm 29 years old</h2>
+<p>Hi 👋, I'm Yago, i'm 29 years old</p>
 <p>Currently learning HTML5, CSS3 and JavaScript</p>
 <p>Focus in Web Developer Front-end</p>
 </div>
